@@ -104,8 +104,7 @@ portfolio/
 │── index.html
 │── style.css
 │── SoftwareDeveloper_resume.pdf
-│── images/
-│     └── profile.jpg
+│── profile.jpg
 📌 How to Run the Project
 
 1️⃣ Clone the repository:
